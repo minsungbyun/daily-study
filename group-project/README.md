@@ -6,8 +6,6 @@
 
 ## 📌 RULE
 
----
-
 - 개발은 **품앗이**로 진행한다. (협업)
   - A repo. : B, C, D 협업자 등록
   - B repo. : A, C, D 협업자 등록
@@ -17,8 +15,6 @@
 ex) A가 만든 기능을 B, C, D가 분담하여 협업 프로젝트를 진행한다.
 
 ## 📌 How to?
-
----
 
 1. github에 각자의 project repo.를 만든다. <br>
    github homepage > Repositories > New > Repository name
@@ -32,17 +28,13 @@ ex) A가 만든 기능을 B, C, D가 분담하여 협업 프로젝트를 진행�
 
 ## 📌 TO-DO-LIST
 
----
-
 - 어떤 기능을 만들고 싶은지 생각해주세요
 - 어떤 주제를 하고 싶은지 정해주세요
 - 생각이 안나면 같이 고민해봐요
 
 ## 📌 URL
 
----
-
-> team-project 각자의 URL 주소입니다.
+> team-project 각자의 repo. URL 주소입니다.
 
 - none
 - none
