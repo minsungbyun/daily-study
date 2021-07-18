@@ -1,22 +1,49 @@
 ## Daily study
-___
-> 이곳은 데일리문제를 공유하는 곳 입니다.
+
+---
+
+### 📝 21.07.19 ~ 21.07.23 TO-DO LIST
+
+- bangwooju
+  - 이주의 목표를 적어주세요
+- gyeryeongban
+  - 이주의 목표를 적어주세요
+- leeseoeun
+  - 이주의 목표를 적어주세요
+- minsungbyun
+  - bitcamp-study 복습
+  - eomcs-java-project 복습
+  - 자바의 정석 객체지향 6~7단원 공부
+  - 블로그 TIL 포스팅
+  - 블로그 몰랐던 부분들 & 알고리즘 포스팅
+
+---
+
+## 문제 공유 하는 법
+
 ### git 주소를 clone합니다. (처음에만)
+
 ```
 // clone
 git clone https://github.com/minsungbyun/daily-study.git
 ```
+
 ### 이후 수정되면 pull 합니다.
+
 ```
 // pull
 git pull
 ```
+
 ## 문제 올리는 방법
-___
+
+---
+
 - 문제를 낸 후 `add` > `commit` > `push` 합니다.
 - 아래의 양식에 맞게 해주세요 ~
+
 ```
-// name   : origin 
+// name   : origin
 // branch : main
 
 // add
@@ -37,7 +64,6 @@ git push -u origin main
 
 - 올리고 싶은 기능들은 `info` directory에 올려주시면 됩니다.
 
->README.md를 수정하고 싶으신 분들은 `markdown `directory에 들어가시면 명령어를 볼 수 있어요
-[markdown 문법 바로가기](https://github.com/minsungbyun/daily-study/tree/main/markdown)
-
-
+> README.md를 수정하고 싶으신 분들은 `markdown `directory에 들어가시면 명령어를 볼 수 있어요<br>
+>
+> - [markdown 문법 바로가기](https://github.com/minsungbyun/daily-study/tree/main/markdown)
