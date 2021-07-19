@@ -5,7 +5,9 @@
 ### 📝 21.07.19 ~ 21.07.23 TO-DO LIST
 
 - bangwooju
-  - 이주의 목표를 적어주세요
+  - study-project 03,04,05 이해될 때까지 반복
+  - 블로그 포스팅
+  - algorithm 풀어보기
 - gyeryeongban
   - 이주의 목표를 적어주세요
 - leeseoeun
