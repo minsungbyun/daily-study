@@ -13,7 +13,10 @@
 - gyeryeongban
   - 이주의 목표를 적어주세요
 - leeseoeun
-  - 이주의 목표를 적어주세요
+  - 01.프로그래밍기초 복습
+  - 02.자바기초문법 복습
+  - 03.OOP문법 복습
+  - eomcs-java-project 복습
 - minsungbyun
   - bitcamp-study 복습
   - eomcs-java-project 복습
