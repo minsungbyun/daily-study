@@ -8,6 +8,8 @@
   - study-project 03,04,05 이해될 때까지 반복
   - 블로그 포스팅
   - algorithm 풀어보기
+  - oop ex01,ex02 반복해서 실행
+  
 - gyeryeongban
   - 이주의 목표를 적어주세요
 - leeseoeun
