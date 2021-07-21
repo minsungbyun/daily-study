@@ -5,10 +5,12 @@
 ### 📝 21.07.19 ~ 21.07.23 TO-DO LIST
 
 - bangwooju
-  - study-project 03,04,05 이해될 때까지 반복
+  daily
   - 블로그 포스팅
+  - 당일 배운 코드 반복
+  주말
   - algorithm 풀어보기
-  - oop ex01,ex02 반복해서 실행
+  - study-project 프롬프트 메서드 ~ 이번주까지 배운 코드 복습 & 노트필기
   
 - gyeryeongban
   - 이주의 목표를 적어주세요
