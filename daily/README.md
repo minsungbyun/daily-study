@@ -13,7 +13,10 @@
   - study-project 프롬프트 메서드 ~ 이번주까지 배운 코드 복습 & 노트필기
   
 - gyeryeongban
-  - 이주의 목표를 적어주세요
+  - 복습
+    - bitcamp-study/study-project
+    - eomcs-java-project
+    - bitcamp-20210621/.pdf
 - leeseoeun
   - 01.프로그래밍기초 복습
   - 02.자바기초문법 복습
